@@ -1,0 +1,3 @@
+Este es un archivo de texto.
+Solamente lo escribo para probar como funcionan las ramas en un proyecto con GIT integrandolo con Github.
+Lo que trato de hacer es ver si puedo actualizar esta rama en el repositorio de Github.
